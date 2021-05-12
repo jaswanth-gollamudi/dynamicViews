@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ANM Customer Feedback</string>
+    <string name="edittext">First dynamic edit text</string>
+    <string name="textview">First dynamic textview</string>
+</resources>
